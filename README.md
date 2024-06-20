@@ -6,24 +6,24 @@
 
 Feature List:
 
--   🌟 Tech stack: MERN + Socket.io + Chakra UI
--   🎃 Authentication & Authorization with JWT
--   📝 Create Post
--   🗑️ Delete Post
--   ❤️ Like/Unlike Post
--   💬 Comment to a Post
--   👥 Follow/Unfollow Users
--   ❄️ Freeze Your Account
--   🌓 Dark/Light Mode
--   📱 Completely Responsive
--   💬 Chat App With Image Support
--   👀 Seen/Unseen Status for Messages
--   🔊 Notification sounds
--   ⭐ Deployment for FREE
+- 🌟 Tech stack: MERN + Socket.io + Chakra UI
+- 🎃 Authentication & Authorization with JWT
+- 📝 Create Post
+- 🗑️ Delete Post
+- ❤️ Like/Unlike Post
+- 💬 Comment to a Post
+- 👥 Follow/Unfollow Users
+- ❄️ Freeze Your Account
+- 🌓 Dark/Light Mode
+- 📱 Completely Responsive
+- 💬 Chat App With Image Support
+- 👀 Seen/Unseen Status for Messages
+- 🔊 Notification sounds
+- ⭐ Deployment for FREE
 
-### Setup .env file
+## Setup .env file
 
-```js
+```env
 PORT=...
 MONGO_URI=...
 JWT_SECRET=...
@@ -41,5 +41,5 @@ npm run build
 ### Start the app
 
 ```shell
-npm start
+npm run start
 ```
